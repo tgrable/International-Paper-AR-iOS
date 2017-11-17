@@ -23,7 +23,7 @@ DerivedData/
 !default.perspectivev3
 
 #Frameworks folder
-#Frameworks/*
+Frameworks/*
 
 #Wikitude Assets Folder
 assets/*
